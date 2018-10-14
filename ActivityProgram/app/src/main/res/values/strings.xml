@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UEA Open Day - Activity Program</string>
+    <string name="settings_btn">Settings</string>
+    <string name="openDaySelect_txt">Select an open day</string>
+    <string name="back_btn">Back to home</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="set_reminder">Remind Me</string>
+    <string name="title_activity_testing">TestingActivity</string>
+</resources>

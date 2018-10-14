@@ -1,0 +1,11 @@
+
+schools=
+CMP|Computing Sciences|Welcome to the UEA school of Computing Sciences;
+BIO|Biology|Welcome to the UEA school of Biology;
+ENV|Environmental Science|Welcome to the UEA school of Environmental sciences;
+activities=
+1|Programming Introduction|CMP|Sci 0.31|12:00|10/06/2017;
+2|Biology Introduction|BIO|LT 4|14:00|10/06/2017;
+3|3D Printing|CMP|Lab 3|14:00|11/06/2017;
+4|TestTitleForENV|ENV|LT 1|12:00|11/06/2017;
+
